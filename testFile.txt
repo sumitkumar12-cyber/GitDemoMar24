@@ -1,1 +1,2 @@
 This is the new file, new line.
+This is the second line in new terminal.
